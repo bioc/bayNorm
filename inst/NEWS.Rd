@@ -117,7 +117,7 @@
 \itemize{
 \item Change back to Rcpp EstPrior function (sp_mat version).
 \item Use dgCMatrix instead of matrix in R.
-\item #define ARMA_64BIT_WORD 1 and so on allows for big sparse matrix (learn from the liger R package).
+\item define ARMA\_64BIT\_WORD 1 and so on allows for big sparse matrix (learn from the liger R package).
     }
 }
 
